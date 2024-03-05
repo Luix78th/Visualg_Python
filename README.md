@@ -54,10 +54,17 @@ No terceiro estudo de caso, conforme o código escrito e adaptado em Python, not
 
 [Arquivo: Caso 3](https://github.com/Luix78th/Visualg_Python/blob/main/Best_Scores.py)
 
-Além de acompanharmos a lógica correta em que mostramos os nomes dos alunos que tiveram a mesma nota, adicionamos uma regra; o campo "nome" ser aceito apenas letras e no campo "nota" ser aceito apenas números. Também, a opção oferecida ao usuário "Deseja continuar? (realizar outra consulta)."
+Além de acompanharmos a lógica correta em que mostramos os nomes dos alunos que tiveram a mesma nota, foi adicionada algumas funções e regras; o campo "nome" ser aceito apenas letras e no campo "nota" ser aceito apenas números.
 
+A opção oferecida ao usuário "Deseja continuar? (realizar outra consulta)." nos deixa uma boa ideia para também ser implementado um arquivo executável, onde mais funcionalidades podem ser adicionadas e ser usadas em instituições de ensino.
+
+Esta versão do código é programada para limpar a tela, caso o usuário deseje realizar nova consulta.
+
+Foi utilizada a função join() do Python, que permite concatenar os elementos de uma lista em uma única string, utilizando um separador definido. Neste caso, os nomes dos alunos foram separados por vírgulas e o último nome seja precedido por "e". Para isso, verificamos o tamanho da lista melhoresAlunos e, dependendo do número de elementos, formatamos a saída de acordo.
+
+Exemplo:
 > Quantos alunos a turma tem?  
-(Valor digitado pelo usuário) = 2
+(Valor digitado pelo usuário) = 3
 
 > ALUNO 1  
 Nome do aluno: Aluno 1  
@@ -66,9 +73,12 @@ Nota: 9
 > ALUNO 2  
 Nome do aluno: Aluno 2  
 Nota: 9
+>
+> ALUNO 3  
+Nome do aluno: Aluno 3  
+Nota: 9  
 
-
-- [x] Resultado: "O melhor aproveitamento foi de **Aluno e Aluna**, com a nota 9.0"
+- [x] Resultado: "O melhor aproveitamento foi de **Aluno 1, Aluno 2 e Aluno 3**, com a nota 9.0"
 
 
 ## Contribuições

@@ -2,7 +2,7 @@
 
 Este repositório contém a migração de estudos de casos em lógica de programação simples, originalmente implementado em Visualg e adaptado para uma solução mais robusta em Python. O projeto inclui três estudos de caso progressivos, demonstrando melhorias na lógica de processamento, validação de entrada e interface com o usuário. Cada estudo de caso tem suas diferenças detalhadas, fornecendo uma comparação clara entre a abordagem original em Visualg e a solução final em Python.
 
-O exercício inicial em Visualg pode ser encontrado no "Curso de Lógica de Programação - Professor Gustavo Guanabara".
+O exercício inicial em Visualg pode ser encontrado no ["Curso de Lógica de Programação - Professor Gustavo Guanabara"](https://www.youtube.com/watch?v=8mei6uVttho).
 
 A seguir, é apresentada a evolução dos três estudos progressivos:
 

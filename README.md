@@ -26,7 +26,7 @@ Nota: 9
 Nome do aluno: Aluno 2  
 Nota: 9
 
-- [ ] Resultado: "O melhor aproveitamento foi de **Aluno** com a nota 9.0"
+- [ ] Resultado: "O melhor aproveitamento foi de **Aluno 1** com a nota 9.0"
 
 ## Estudo de Caso 2 - Visualg
 
@@ -47,7 +47,7 @@ Nota: 9
 Nome do aluno: Aluno 2  
 Nota: 9
 
-- [x] Resultado: "O melhor aproveitamento foi de **Aluno e Aluna**, com a nota 9.0"
+- [x] Resultado: "O melhor aproveitamento foi de **Aluno 1 e Aluno 2**, com a nota 9.0"
 
 ## Estudo de Caso 3 - Python
 No terceiro estudo de caso, conforme o código escrito e adaptado em Python, notamos uma notável melhoria em todo o contexto.
